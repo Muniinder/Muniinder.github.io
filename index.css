@@ -238,7 +238,12 @@ li{
 .prj-content a{
 	text-decoration: none;
 }
-
+.centered_projects{
+	text-align : center;
+	width:33.33%;
+	display: flex;
+	float: left;
+}
 
 /*-------------MMMMEDIA QQUERIES-----------------------------*/
 
@@ -379,5 +384,9 @@ li{
 		  text-decoration: none;
 		  margin: 5px 2px;
 	}
+	.mob_font{
+		font-size : 14px;
+	}
+		
 	
 }
