@@ -154,7 +154,7 @@ li{
   margin: 5px 12px;
 }
 
-.fa-facebook,.fa-twitter,.fa-google , .fa-linkedin ,.fa-instagram,.fa-youtube:hover {
+.fa-facebook .fa-twitter .fa-google .fa-linkedin .fa-instagram .fa-youtube:hover {
     opacity: 0.7;
     padding: 17px;
 }
